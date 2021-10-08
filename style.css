@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(skyblue 20%, pink 80%);
+}
+
+h1
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#apps h1, #chatbots h1, #games h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.line
+{
+    width: 70px;
+    height: 6px;
+    background-color: blueviolet;
+    margin: 8px auto;
+}
